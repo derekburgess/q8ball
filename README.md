@@ -4,8 +4,8 @@ That QRNG repo originally had an ardunio sketch and a schematic for the hardware
 
 Using the Arduino IDE: https://www.arduino.cc/en/software -- Push the sketch (`q8ball.ino`) to the board... good luck.
 
-TODO Wiring diagram...
-
 ![photo](/assets/photo.jpg)
 
-https://vimeo.com/manage/videos/903459402
+![video](https://vimeo.com/manage/videos/903459402)
+
+TODO Wiring diagram...
